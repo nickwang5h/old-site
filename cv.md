@@ -52,15 +52,11 @@ Programming & machine learning skills
 :   Basic knowledge of **C**, **C++**, **Pytorch**, **Tensorflow**
 
 
-Extra Section, Call it Whatever You Want
+Extra Section
 ----------------------------------------
 
 * Human Languages:
 
      * Chinese (native speaker)
      * French (TEF B2, 2017)
-     * English (will take a El)
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * English (will take a Ielts exam in October 2019)
