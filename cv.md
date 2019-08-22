@@ -2,7 +2,7 @@
 title: CV
 layout: "page"
 icon: fa-book
-order: 1
+order: 3
 ---
 
 Cong Wang 王聪
