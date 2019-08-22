@@ -19,7 +19,7 @@ Education
 
     *DAC: Données, Apprentissage et Connaissances(equally Artificial Intelligence and Big data)*
 
-    *Thesis title: [Architecture siamoise et embeddings detriplet pour la validation de relation](http://www.asso-aria.org/coria/2019/CORIA_2019_paper_19.pdf)
+    *Thesis title: [Architecture siamoise et embeddings de triplet pour la validation de relation](http://www.asso-aria.org/coria/2019/CORIA_2019_paper_19.pdf)
 
 2015-2016
 :   **Licence 3, Computer Science** Sorbonne University (Paris)
