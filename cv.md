@@ -14,12 +14,17 @@ Cong Wang 王聪
 Education
 ---------
 
-2010-2014 (expected)
+2016-2018 (expected)
 :   **Master, Computer Science** Sorbonne University (Paris)
 
     *DAC: Données, Apprentissage et Connaissances(equally Artificial Intelligence and Big data)*
 
     *Thesis title: [http://www.asso-aria.org/coria/2019/CORIA_2019_paper_19.pdf](Architecture siamoise et embeddings detriplet pour la validation de relation)
+
+2013-2015
+:   **Licence, Computer Science** Sorbonne University (Paris)
+
+    *Computer Science*
 
 2013-2015
 :   **DUT, Computer Science** IUT d’Orsay France
