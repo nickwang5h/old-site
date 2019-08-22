@@ -21,8 +21,8 @@ Education
 
     *Thesis title: [Architecture siamoise et embeddings detriplet pour la validation de relation](http://www.asso-aria.org/coria/2019/CORIA_2019_paper_19.pdf)
 
-2013-2015
-:   **Licence, Computer Science** Sorbonne University (Paris)
+2015-2016
+:   **Licence 3, Computer Science** Sorbonne University (Paris)
 
     *Computer Science*
 
