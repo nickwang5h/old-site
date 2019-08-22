@@ -1,10 +1,10 @@
 ---
 title: About Me
 icon: fa-check
-order: 3
+order: 2
 ---
 
-Cong Wang (王聪)
+Cong Wang
 ============
 
 -------------------     ----------------------------
